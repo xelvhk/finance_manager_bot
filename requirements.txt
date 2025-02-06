@@ -1,3 +1,8 @@
 aiogram~=3.7.0
 requests~=2.32.3
 environs~=11.0.0
+aioredis~=2.0.1
+sqlalchemy~=2.0.37
+aiosqlite~=0.21.0
+redis~=5.2.1
+setuptools~=75.8.0
